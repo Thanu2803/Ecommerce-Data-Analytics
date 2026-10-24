@@ -104,6 +104,10 @@ Open the dashboard file using the application it was created with.
 - Business insights and analytical thinking
 - Project organization using GitHub
 
+## 📊 Dashboard Screenshot
+
+![E-commerce Dashboard](images/ecommerce_dashboard.png)  
+
 ## 👩‍💻 Author
 
 **Thanushree K**
